@@ -1,0 +1,14 @@
+Lotus Assassin	Rogue	Epic	Gadgetzan	Minion	5
+Pint-Sized Summoner	Neutral	Rare	Classic	Minion	2
+Explosive Sheep	Neutral	Common	Goblins vs Gnomes	Minion	2
+Healing Wave	Shaman	Rare	Grand Tournament	Spell	3
+Evolving Spores	Druid	Rare	Un'Goro	Spell	4
+Core Hound	Neutral	Basic	Basic	Minion	7
+Dark Wispers	Druid	Epic	Goblins vs Gnomes	Minion	6
+Loot Hoarder	Neutral	Common	Classic	Minion	2
+Poisoned Blade	Rogue	Epic	Grand Tournament	Weapon	4
+Golakka Crawler	Neutral	Rare	Un'Goro	Minion	2
+Avian Watcher	Neutral	Rare	Karazhan	Minion	5
+Blood To Ichor	Warrior	Rare	Old Gods	Spell	1
+Innervate	Druid	Basic	Basic	Spell	0
+Polymorph	Mage	Basic	Basic	Spell	4
